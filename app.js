@@ -15,5 +15,4 @@ function convertToHandshake () {
 
   document.getElementById('handshake').innerText = handshake.join(', ')
 }
-
 convertToHandshake()
