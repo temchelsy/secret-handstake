@@ -1,0 +1,55 @@
+body {
+  background: linear-gradient(90deg, #010b0f, #09b8ee, #41416d);
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  overflow: hidden;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 95vh;
+  width: 95vw;
+  margin: 15px 35px;
+  background-color: #0c1931;
+}
+
+#handshake {
+  color: #fff;
+  font-size: 18px;
+}
+
+#number-input {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 10px;
+  width: 30vw;
+  height: 4vh;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+label {
+  display: flex;
+  text-align: left;
+  justify-content: left;
+  font-size: 28px;
+  color: #fff;
+}
+
+button {
+  text-align: center;
+  width: 20vw;
+  height: 9vh;
+  padding: 15px;
+  margin: 50px 15px;
+  color: #080808;
+  font-size: 20px;
+  border-radius: 8px;
+  background-color: #09b8ee;
+}
