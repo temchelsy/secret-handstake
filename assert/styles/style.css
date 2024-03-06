@@ -1,5 +1,5 @@
 body {
-  /* background: linear-gradient(90deg, #010b0f, #09b8ee, #41416d); */
+  background-color: gainsboro;
   align-items: center;
   justify-content: center;
   margin: 0;
@@ -19,7 +19,7 @@ body {
 
 #handshake {
   color: #fff;
-  font-size: 18px;
+  font-size: 15px;
 }
 
 #number-input {
